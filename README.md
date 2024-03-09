@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @GeraldFreis
-And I enjoy programming very much
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-GeraldFreis/GeraldFreis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, I am Gerald Freislich a current Research Assistant and student at the University of Adelaide.
+I enjoy mainly Machine Learning and Data Science tasks and have been working for the past while in the Graph based Machine Learning space.
+Most of my recent work has been in Machine Learning research because I have fundamental questions about the field which have insufficient or non-existent answers online.
+I hope you enjoy looking through my work :)
